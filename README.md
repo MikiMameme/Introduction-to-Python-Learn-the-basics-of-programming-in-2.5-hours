@@ -22,4 +22,4 @@
 
   
 ## 【Python入門】プログラミングの基本を2時間半で学ぶ！〜初心者用チュートリアル〜 Python速習  
-### [動画はこちら](https://www.youtube.com/watch?v=tCMl1AWfhQQ) 
+### [この動画を観て学びました(動画はこちら)](https://www.youtube.com/watch?v=tCMl1AWfhQQ) 
